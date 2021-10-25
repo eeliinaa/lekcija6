@@ -1,0 +1,14 @@
+F:\c#\l6\lekcija6\lekcija6\bin\Debug\netcoreapp3.1\lekcija6.exe
+F:\c#\l6\lekcija6\lekcija6\bin\Debug\netcoreapp3.1\lekcija6.deps.json
+F:\c#\l6\lekcija6\lekcija6\bin\Debug\netcoreapp3.1\lekcija6.runtimeconfig.json
+F:\c#\l6\lekcija6\lekcija6\bin\Debug\netcoreapp3.1\lekcija6.runtimeconfig.dev.json
+F:\c#\l6\lekcija6\lekcija6\bin\Debug\netcoreapp3.1\lekcija6.dll
+F:\c#\l6\lekcija6\lekcija6\bin\Debug\netcoreapp3.1\lekcija6.pdb
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.csproj.AssemblyReference.cache
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.AssemblyInfoInputs.cache
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.AssemblyInfo.cs
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.csproj.CoreCompileInputs.cache
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.dll
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.pdb
+F:\c#\l6\lekcija6\lekcija6\obj\Debug\netcoreapp3.1\lekcija6.genruntimeconfig.cache
